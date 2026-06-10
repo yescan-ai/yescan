@@ -2,11 +2,9 @@
 
 > **一站式 AI 文档扫描处理开放平台** — 36 项 AI 能力，5 种接入方式，覆盖文字识别、文件扫描、格式转换、AIGC 四大领域
 
-官网：https://scan.quark.cn/business  
-合作热线：4009030958
-合作邮箱：quark-ai@service.alibaba.com
-
-[中文](./README_cn.md)
+<p>官网：https://scan.quark.cn/business</p>
+<p>合作热线：4009030958</p>
+<p>合作邮箱：quark-ai@service.alibaba.com</p>
 
 <p>
 <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-blue.svg">
